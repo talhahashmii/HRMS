@@ -1,0 +1,13 @@
+
+body{
+    background-color: #fafdfb !important;
+}
+
+.modal-social{
+    z-index: 2000;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
